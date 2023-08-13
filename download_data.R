@@ -2,10 +2,6 @@ library(tidyverse)
 library(reticulate)
 
 if(!dir.exists('data/')){dir.create('data/'); cat('Data folder created.') }
-
-library(tidyverse)
-library(reticulate)
-
 #### helper functions ####
 
 # get stimuli table given experiment sdk address
