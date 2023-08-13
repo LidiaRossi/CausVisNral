@@ -9,4 +9,4 @@ The code is divided in three main files:
 
 2.  `exploratory.R` : It reads the file in the `data` folder and creates the plots reported in the manuscript. Both plots and related data are stored in the `output` folder.
 
-3.  `tests:` It reads the data in the `output/data/` sub-folder and carries out the causal tests as described in the manuscript.
+3.  `tests.R:` It reads the data in the `output/data/` sub-folder and carries out the causal tests as described in the manuscript.
